@@ -1,0 +1,11 @@
+.home {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 350px;
+    background-image: url('../../images/homeBg.jpg');
+    position: relative;
+    top: 60px;
+    height: 350px;
+    display: flex
+}

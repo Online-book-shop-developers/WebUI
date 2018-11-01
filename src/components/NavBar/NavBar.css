@@ -1,0 +1,12 @@
+.outerNav {
+    padding: 5px 10px;
+    z-index: 1050;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #011f34;
+    box-shadow:0 1px 0 rgba(12, 13, 14, 0.1), 0 1px 6px rgba(59, 64, 69, 0.1);
+    height: 60px;
+    position: fixed;
+    width: 100%
+}
